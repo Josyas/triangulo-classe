@@ -1,1 +1,1 @@
-# triangulo-classe
+# Triangulo Classe.
